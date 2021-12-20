@@ -29,8 +29,8 @@ const CONFIG = {
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
+  defaultLatitude: '43.073',
+  defaultLongitude: '89.401',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
@@ -40,27 +40,27 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'Google',
+      icon: 'chrome',
+      link: 'https://www.google.com/',
     },
     {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/mail/u/0/',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
+      name: 'YouTube',
+      icon: 'youtube',
+      link: 'https://www.youtube.com/',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Facebook',
+      icon: 'facebook',
+      link: 'https://www.facebook.com/',
     },
     {
       id: '5',
@@ -70,9 +70,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Twitch',
+      icon: 'twitch',
+      link: 'https://www.twitch.tv/ninjacookiexy',
     },
   ],
 
@@ -81,45 +81,45 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
-  secondListIcon: 'coffee',
+  firstListIcon: 'compass',
+  secondListIcon: 'shopping-bag',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'GitHub',
+        link: 'https://github.com/',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Drive',
+        link: 'https://drive.google.com/drive/u/0/',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Outlook',
+        link: 'https://outlook.office.com/mail/inbox',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Handshake',
+        link: 'https://wisc.joinhandshake.com/login',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Amazon',
+        link: 'https://www.amazon.com',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'eBay',
+        link: 'https://www.ebay.com',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'BuildAPCSales',
+        link: 'https://www.reddit.com/r/buildapcsales',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'HardwareSwap',
+        link: 'https://www.reddit.com/r/hardwareswap',
       },
     ],
   },

@@ -13,14 +13,14 @@ const CONFIG = {
   // General
   name: 'Jesh',
   imageBackground: false,
-  openInNewTab: true,
+  openInNewTab: false,
   twelveHourFormat: true,
 
   // Greetings
-  greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
-  greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingMorning: 'おはようございます',
+  greetingAfternoon: 'こんにちは',
+  greetingEvening: 'こんばんは',
+  greetingNight: 'おやすみ',
 
   // Weather
   weatherKey: '202076dbf11c6eb358e88adeabe77119',

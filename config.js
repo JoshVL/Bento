@@ -100,8 +100,8 @@ const CONFIG = {
         link: 'https://outlook.office.com/mail/inbox',
       },
       {
-        name: 'Handshake',
-        link: 'https://wisc.joinhandshake.com/login',
+        name: 'LinkedIn',
+        link: 'https://www.linkedin.com/jobs/',
       },
     ],
     secondList: [
